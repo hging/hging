@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Test"
+date: 2014-02-18 00:39:10 +0800
+comments: true
+categories: 
+---
+Test
+********
+I'm a test post
